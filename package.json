@@ -38,7 +38,7 @@
     "html2canvas": "^1.0.0-rc.5",
     "jquery": "^3.4.1",
     "jquery-mockjax": "^2.5.0",
-    "jspdf": "github:vinayjeurkarzymr/jsPDF#e50c3da3072f63020b7ce597a25cb217eaf8ea03"
+    "jspdf": "github:beachbodyops/jsPDF#e50c3da3072f63020b7ce597a25cb217eaf8ea03"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
